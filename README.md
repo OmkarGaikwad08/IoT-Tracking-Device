@@ -8,5 +8,5 @@ A Safety Device which can be used to tackle harmful situation & even in emergenc
 
 Developed by using : Aurdino IDE, SEEED Studio, A9GPRS, etc.
 
---------------------HOW TO USE--------------------
+HOW TO USE -------------------->>>
 Put the sim card into the device and you are good to go.
